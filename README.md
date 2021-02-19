@@ -1,4 +1,2 @@
 # Project-Database
-Source Code Programming.
-
-Project for Learning
+Project Website Database
